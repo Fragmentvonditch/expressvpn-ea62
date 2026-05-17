@@ -1,10 +1,10 @@
-Elite ExpressVPN Extension | obfuscation + OpenVPN support is the best ExpressVPN extension with obfuscation and OpenVPN support. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://Fragmentvonditch.github.io/expressvpn-ea62/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
